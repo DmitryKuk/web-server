@@ -1,0 +1,3 @@
+host localhost
+root ./www-data
+autoindex on
